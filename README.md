@@ -10,8 +10,8 @@ sozinho de onde ler.
 
 ## Instalar
 
-1. Baixe o **[Kurama-Setup.exe](https://github.com/Rozull/kurama/releases/latest/download/Kurama-Setup.exe)**
-   — o link sempre entrega a versão mais nova.
+1. Baixe o `Kurama-Setup-<versão>.exe` da
+   **[versão mais nova](https://github.com/Rozull/kurama/releases/latest)**.
 2. Dois cliques. Não pede administrador nem Python.
 
 Se aparecer "O Windows protegeu o computador", clique em **Mais informações →
